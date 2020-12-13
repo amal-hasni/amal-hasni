@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 📝 I regularly write articles on [https://amal-hasni.medium.com/](https://amal-hasni.medium.com/)
+- 📝 I regularly write articles on [Medium](https://amal-hasni.medium.com/)
 
 - 📫 How to reach me **amal.hasni@hotmail.fr**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amal-hasni/](https://www.linkedin.com/in/amal-hasni/)
+- 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/amal-hasni/)
 
-### Blogs posts
+### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
