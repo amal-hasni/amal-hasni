@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">A Data Science consultant and a technology enthusiast eager to learn and spread knowledge!</h3>
+<h3 align="center">A Data Science Consultant and a Technology Enthusiast Eager to Learn and Spread Knowledge!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-hasni&label=Profile%20views&color=0e75b6&style=flat" alt="amal-hasni" /> </p>
 
