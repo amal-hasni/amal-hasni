@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/amal-hasni/)
 
-### Latest Medium Articles
+### Latest Medium Articles:
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a Classification Model for Source Code Languages](https://towardsdatascience.com/classification-model-for-source-code-programming-languages-40d1ab7243c2?source=rss-d38873cbc5aa------2)
 - [How to Send Emails With Attachments Using Python](https://medium.com/better-programming/how-to-send-emails-with-attachments-using-python-dd37c4b6a7fd?source=rss-d38873cbc5aa------2)
