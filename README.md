@@ -13,9 +13,9 @@
 
 ### Latest Medium Articles:
 <!-- BLOG-POST-LIST:START -->
-- [How To Easily Merge Multiple Jupyter Notebooks Into One](https://towardsdatascience.com/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4?source=rss-d38873cbc5aa------2)
+- [How To Easily Merge Multiple Jupyter Notebooks Into One](https://medium.com/towards-data-science/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4?source=rss-d38873cbc5aa------2)
 - [Best Free Password Managers Out There](https://medium.com/geekculture/best-free-password-managers-out-there-e78289f87456?source=rss-d38873cbc5aa------2)
-- [5 Hyperparameter Optimization Methods Every Data Scientist Should Use](https://towardsdatascience.com/5-hyperparameter-optimization-methods-you-should-use-521e47d7feb0?source=rss-d38873cbc5aa------2)
+- [5 Hyperparameter Optimization Methods Every Data Scientist Should Use](https://medium.com/towards-data-science/5-hyperparameter-optimization-methods-you-should-use-521e47d7feb0?source=rss-d38873cbc5aa------2)
 - [Do Women Really Need a Rigged Dice to Thrive in Tech Environments?](https://aninjusticemag.com/do-women-really-need-a-rigged-dice-to-thrive-in-tech-environments-2f06c444332b?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
