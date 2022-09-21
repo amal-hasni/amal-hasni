@@ -13,10 +13,10 @@
 
 ### Latest Medium Articles:
 <!-- BLOG-POST-LIST:START -->
+- [These Methods Will Change How You Use Pandas](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f?source=rss-d38873cbc5aa------2)
 - [3 Reasons Why Spark’s Lazy Evaluation is Useful](https://towardsdatascience.com/3-reasons-why-sparks-lazy-evaluation-is-useful-ed06e27360c4?source=rss-d38873cbc5aa------2)
 - [Your Guide for a Smooth Transition from Pandas to Pyspark](https://towardsdatascience.com/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d?source=rss-d38873cbc5aa------2)
 - [How To Easily Merge Multiple Jupyter Notebooks Into One](https://towardsdatascience.com/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4?source=rss-d38873cbc5aa------2)
-- [Best Free Password Managers Out There](https://medium.com/geekculture/best-free-password-managers-out-there-e78289f87456?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
