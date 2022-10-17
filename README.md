@@ -13,10 +13,10 @@
 
 ### Latest Medium Articles:
 <!-- BLOG-POST-LIST:START -->
+- [Split Your Jupyter Notebooks &lpar;In 2 Lines of Code&rpar;](https://towardsdatascience.com/split-your-jupyter-notebooks-in-2-lines-of-code-de345d647454?source=rss-d38873cbc5aa------2)
 - [Rapidly Explore Jupyter Notebooks &lpar;Right in Your Terminal&rpar;](https://towardsdatascience.com/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2?source=rss-d38873cbc5aa------2)
 - [This Decorator will Make Python 30 Times Faster](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f?source=rss-d38873cbc5aa------2)
 - [These Methods Will Change How You Use Pandas](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f?source=rss-d38873cbc5aa------2)
-- [3 Reasons Why Spark’s Lazy Evaluation is Useful](https://towardsdatascience.com/3-reasons-why-sparks-lazy-evaluation-is-useful-ed06e27360c4?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
