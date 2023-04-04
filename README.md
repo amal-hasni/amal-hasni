@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-hasni&label=Profile%20views&color=0e75b6&style=flat" alt="amal-hasni" /> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently following a training course **Data Enginnering for Data Scientists by Datascientest**
 
 - 📝 I regularly write articles on [Medium](https://amal-hasni.medium.com/)
 
