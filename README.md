@@ -13,7 +13,7 @@
 
 ### Latest Medium Articles:
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: Taming Git’s Wild History](https://blog.stackademic.com/from-chaos-to-clarity-taming-gits-wild-history-56abc4954aac?source=rss-d38873cbc5aa------2)
+- [How to Rewrite Your Git History](https://blog.stackademic.com/from-chaos-to-clarity-taming-gits-wild-history-56abc4954aac?source=rss-d38873cbc5aa------2)
 - [Split Your Jupyter Notebooks &lpar;In 2 Lines of Code&rpar;](https://medium.com/data-science/split-your-jupyter-notebooks-in-2-lines-of-code-de345d647454?source=rss-d38873cbc5aa------2)
 - [Rapidly Explore Jupyter Notebooks &lpar;Right in Your Terminal&rpar;](https://medium.com/data-science/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2?source=rss-d38873cbc5aa------2)
 - [This Decorator will Make Python 30 Times Faster](https://medium.com/data-science/this-decorator-will-make-python-30-times-faster-715ca5a66d5f?source=rss-d38873cbc5aa------2)
